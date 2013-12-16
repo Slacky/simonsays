@@ -1,4 +1,4 @@
 simonsays
 =========
 
-Another homework assignment
+Another homework assignment for a friend
